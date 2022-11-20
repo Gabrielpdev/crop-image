@@ -1,0 +1,14 @@
+{
+  "coverageDirectory": "coverage",
+  "collectCoverage": false,
+  "collectCoverageFrom": [
+    "src/**/*.ts(x)"
+  ],
+  "testEnvironment": "jsdom",
+  "testMatch": [
+    "**/__tests__/**/*.[jt]s?(x)",
+    "**/?(*.)+(spec|test|tests).[tj]s?(x)"
+  ],
+  "testPathIgnorePatterns": ["/node_modules/", "/.next/", "/.out/", "/public/"],
+  "setupFilesAfterEnv": ["<rootDir>/.jest/setup-tests.js"]
+}

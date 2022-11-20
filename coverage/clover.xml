@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1668979517855" clover="3.2.0">
+  <project timestamp="1668979517855" name="All files">
+    <metrics statements="53" coveredstatements="53" conditionals="27" coveredconditionals="27" methods="18" coveredmethods="18" elements="98" coveredelements="98" complexity="0" loc="53" ncloc="53" packages="7" files="8" classes="8"/>
+    <package name="components.elements.DropError">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/home/gabriel/Documentos/Projetos/croct-challenge/src/components/elements/DropError/index.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.elements.Dropzone">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/home/gabriel/Documentos/Projetos/croct-challenge/src/components/elements/Dropzone/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="37" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.elements.EditImage">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="index.tsx" path="/home/gabriel/Documentos/Projetos/croct-challenge/src/components/elements/EditImage/index.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="15" count="7" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="29" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.modules.AvatarUpload">
+      <metrics statements="19" coveredstatements="19" conditionals="17" coveredconditionals="17" methods="5" coveredmethods="5"/>
+      <file name="index.tsx" path="/home/gabriel/Documentos/Projetos/croct-challenge/src/components/modules/AvatarUpload/index.tsx">
+        <metrics statements="19" coveredstatements="19" conditionals="17" coveredconditionals="17" methods="5" coveredmethods="5"/>
+        <line num="11" count="43" type="stmt"/>
+        <line num="13" count="43" type="stmt"/>
+        <line num="14" count="43" type="stmt"/>
+        <line num="16" count="43" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="19" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="23" count="5" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="34" count="43" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="47" count="43" type="stmt"/>
+      </file>
+    </package>
+    <package name="context">
+      <metrics statements="21" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
+      <file name="image.tsx" path="/home/gabriel/Documentos/Projetos/croct-challenge/src/context/image.tsx">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="17" type="stmt"/>
+        <line num="20" count="17" type="stmt"/>
+        <line num="28" count="50" type="stmt"/>
+        <line num="30" count="50" type="stmt"/>
+      </file>
+      <file name="theme.tsx" path="/home/gabriel/Documentos/Projetos/croct-challenge/src/context/theme.tsx">
+        <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="22" type="stmt"/>
+        <line num="16" count="22" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="19" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="22" type="stmt"/>
+        <line num="23" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="32" count="22" type="stmt"/>
+        <line num="40" count="7" type="stmt"/>
+        <line num="42" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.Home">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/home/gabriel/Documentos/Projetos/croct-challenge/src/pages/Home/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="styles">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="renderTheme.tsx" path="/home/gabriel/Documentos/Projetos/croct-challenge/src/styles/renderTheme.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="10" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
