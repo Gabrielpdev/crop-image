@@ -1,3 +1,4 @@
+/* istanbul ignore file */
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 import { useDropzone } from 'react-dropzone';
 import { Dropzone } from '.';
